@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Hardware HSM vs Browser HSM: Choosing the Right Cryptographic Signing Method",
       "slug": "hardware-hsm-vs-browser-hsm",
-      "excerpt": "YubiKey, smart cards, or browser-based keys? A comprehensive guide to choosing the right cryptographic signing method for your enterprise.",
+      "excerpt": "Compare Hardware HSMs, YubiKeys, smart cards, and browser-based cryptographic signing architectures.",
       "category": "Cryptography",
       "date": "May 31, 2026",
       "readTime": "8 min read",
