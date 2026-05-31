@@ -4,13 +4,73 @@
       "id": 1,
       "title": "Hardware HSM vs Browser HSM: Choosing the Right Cryptographic Signing Method",
       "slug": "hardware-hsm-vs-browser-hsm",
-      "excerpt": "Compare Hardware HSMs, YubiKeys, smart cards, and browser-based cryptographic signing architectures.",
+      "excerpt": "YubiKey, smart cards, or browser-based keys? A comprehensive guide to choosing the right cryptographic signing method for your enterprise — and why zero-trust local-first architectures are reshaping the industry.",
       "category": "Cryptography",
       "date": "May 31, 2026",
       "readTime": "8 min read",
       "author": "Cryptography Team",
       "authorRole": "Security Engineering",
       "image": "https://raw.githubusercontent.com/oliveir3/supersecuredoc-knowledge-bank/main/images/blog/hsm/zero-trust-browser-signing-architecture.png"
+    },
+    {
+      "id": 2,
+      "title": "Your Documents Never Leave Your Browser: The Zero-Trust Architecture Explained",
+      "slug": "zero-trust-architecture-document-signing",
+      "excerpt": "Unlike every other eSignature platform, SuperSecureDoc processes everything locally. Here's the technical architecture behind our zero-trust, browser-first approach and why it matters for enterprise security.",
+      "category": "Architecture",
+      "date": "May 28, 2026",
+      "readTime": "6 min read",
+      "author": "Suhasini Oliveira",
+      "authorRole": "Founder & CEO",
+      "emoji": "🔒"
+    },
+    {
+      "id": 3,
+      "title": "Hedera Consensus Service for Tamper-Proof Audit Trails",
+      "slug": "hedera-consensus-tamper-proof-audit-trails",
+      "excerpt": "How Hedera blockchain anchors every signature, creating immutable timestamps and verifiable audit trails that stand up to regulatory scrutiny.",
+      "category": "Blockchain",
+      "date": "May 20, 2026",
+      "readTime": "7 min read",
+      "author": "Blockchain Team",
+      "authorRole": "Distributed Ledger",
+      "emoji": "⛓️"
+    },
+    {
+      "id": 4,
+      "title": "eIDAS Qualified Signatures: What You Need to Know",
+      "slug": "eidas-qualified-signatures-guide",
+      "excerpt": "Understanding qualified electronic signatures, hardware security modules, and how SuperSecureDoc supports eIDAS compliance for EU enterprises.",
+      "category": "Compliance",
+      "date": "May 15, 2026",
+      "readTime": "10 min read",
+      "author": "Compliance Team",
+      "authorRole": "Regulatory Affairs",
+      "emoji": "⚖️"
+    },
+    {
+      "id": 5,
+      "title": "Scan-to-Sign: Turning Your Phone Into a Cryptographic Authenticator",
+      "slug": "scan-to-sign-mobile-authenticator",
+      "excerpt": "How QR code pairing and biometric authentication turn any smartphone into a soft HSM for cryptographic signing — no hardware token required.",
+      "category": "Innovation",
+      "date": "May 10, 2026",
+      "readTime": "5 min read",
+      "author": "Product Team",
+      "authorRole": "Product Management",
+      "emoji": "📱"
+    },
+    {
+      "id": 6,
+      "title": "HIPAA-Compliant Document Signing Without Storing PHI",
+      "slug": "hipaa-compliant-signing-no-phi-storage",
+      "excerpt": "How our zero-trust architecture meets HIPAA requirements by never storing protected health information on our servers.",
+      "category": "Healthcare",
+      "date": "May 5, 2026",
+      "readTime": "7 min read",
+      "author": "Security Team",
+      "authorRole": "Security Architecture",
+      "emoji": "🏥"
     }
   ]
 }
